@@ -58,7 +58,7 @@ Execute o programa:
 
 ```bash
 
-python buscar\_livros.py
+python buscardor.py
 
 ```
 
